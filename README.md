@@ -1,4 +1,4 @@
-Project Title: 
+Project Title: About Us Website
 
 Team Members:
 - Micaiah Frisby
